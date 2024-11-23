@@ -12,7 +12,7 @@
 		"url": "https://github.com/phil294/GitLG"
 	},
 	"engines": {
-		"vscode": "^1.47.0"
+		"vscode": "^1.95.0"
 	},
 	"categories": [
 		"Other"
@@ -575,19 +575,19 @@
 	"devDependencies": {
 		"@eslint/eslintrc": "^3.2.0",
 		"@eslint/js": "^9.15.0",
-		"@types/node": "^22.9.0",
-		"@types/vscode": "^1.47.0",
+		"@types/node": "^22.9.3",
+		"@types/vscode": "^1.95.0",
 		"@types/vscode-webview": "^1.57.5",
 		"esbuild": "^0.24.0",
 		"eslint": "^9.15.0",
 		"eslint-plugin-jsdoc": "^50.5.0",
-		"eslint-plugin-n": "^17.13.2",
+		"eslint-plugin-n": "^17.14.0",
 		"eslint-plugin-promise": "^7.1.0",
 		"eslint-plugin-vue": "^9.31.0",
 		"globals": "^15.12.0",
 		"neostandard": "^0.11.8",
 		"npm-check-updates": "^17.1.11",
-		"ovsx": "^0.10.0",
+		"ovsx": "^0.10.1",
 		"vsce": "^2.15.0"
 	},
 	"dependencies": {
